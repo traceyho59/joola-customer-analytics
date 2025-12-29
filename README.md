@@ -148,7 +148,7 @@ The Streamlit dashboard provides a **"What-If" churn prediction tool** allowing 
 2. See real-time churn probability predictions
 3. Understand which factors most influence retention
 
-**Demo Video:** [YouTube Link](https://www.youtube.com/watch?v=QlOoYwnm3-w)
+[![Dashboard Demo](https://img.youtube.com/vi/QlOoYwnm3-w/maxresdefault.jpg)](https://www.youtube.com/watch?v=QlOoYwnm3-w)
 
 ---
 
