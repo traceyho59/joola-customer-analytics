@@ -1,7 +1,7 @@
 # JOOLA Customer Analytics & Churn Prediction
 
 <p align="center">
-  <img src="docs/images/joola-logo.png" alt="JOOLA Logo" width="200"/>
+  <img src="joola-logo.png" alt="JOOLA Logo" width="200"/>
 </p>
 
 ## 📋 Project Overview
