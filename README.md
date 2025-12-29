@@ -157,7 +157,7 @@ The Streamlit dashboard provides a **"What-If" churn prediction tool** allowing 
 | Dataset | Description | Records |
 |---------|-------------|---------|
 | Sales Orders | 5 CSV exports merged | 1.9M line items |
-| General Ledger SKU | Product cost/margin data | - |
+| General Ledger SKU | Product cost/margin data | 14,224 SKUs |
 | Google Analytics | User demographics, channels, interests | ~1M users |
 | Search Keywords | 5,149 keywords with competition metrics | 5,149 rows |
 
