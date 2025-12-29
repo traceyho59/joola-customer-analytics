@@ -169,12 +169,12 @@ The Streamlit dashboard provides a **"What-If" churn prediction tool** allowing 
 
 | Name | Role |
 |------|------|
-| Billy Chen | Tech Lead |
-| Tracey Ho | Front-End Engineer |
+| Billy Chen | Data Engineer |
+| Tracey Ho | Tech Lead |
 | Ellen Li | Marketing & Communications |
-| Sunny Wang | Market Researcher |
+| Sunny Wang | Data Engineer |
 | Samantha Yung | Product Manager |
-| Victor Zhan | Back-End Engineer |
+| Victor Zhan | Data Engineer |
 
 **Program:** Columbia University, M.S. Applied Analytics
 
